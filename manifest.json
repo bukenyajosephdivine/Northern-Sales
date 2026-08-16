@@ -1,0 +1,22 @@
+{
+  "name": "Northern Sales",
+  "short_name": "Northern Sales",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#111111",
+  "theme_color": "#111111",
+  "icons": [
+    {
+      "src": "northern-sales-icon.jpg",
+      "sizes": "1420x1536",
+      "type": "image/jpeg",
+      "purpose": "any"
+    },
+    {
+      "src": "northern-sales-icon.jpg",
+      "sizes": "1420x1536",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    }
+  ]
+}
